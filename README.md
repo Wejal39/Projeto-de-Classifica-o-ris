@@ -1,6 +1,6 @@
 # Projeto de Classificação Íris
 
-Este projeto foi desenvolvido como requisito da Semana de Imersão do curso *Machine Learning – Aula 1 (20221004)*.  
+Este projeto foi desenvolvido como requisito da Semana de Imersão do curso *Machine Learning*.  
 O objetivo é aplicar algoritmos de Machine Learning no clássico dataset **Íris**, avaliando diferentes técnicas de classificação multiclasse.
 
 ## 🔍 Etapas do Projeto
@@ -18,15 +18,3 @@ O objetivo é aplicar algoritmos de Machine Learning no clássico dataset **Íri
   - Matrizes de confusão gráficas
   - Validação cruzada (5-folds)
 - **Comparação com e sem FLAG**: análise do impacto da feature extra no desempenho.
-
-## 📊 Principais Resultados
-- **Random Forest** apresentou o melhor desempenho geral e maior robustez.
-- A inclusão da FLAG de outliers não trouxe ganhos globais, mas:
-  - Melhorou ligeiramente a Árvore de Decisão.
-  - Reduziu o desempenho do Naive Bayes.
-  - Não alterou significativamente Regressão Logística e KNN.
-
-## 🚀 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/Projeto-de-Classificacao-Iris.git
