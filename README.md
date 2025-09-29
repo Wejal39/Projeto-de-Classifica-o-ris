@@ -1,6 +1,6 @@
 # Projeto de Classificação Íris
 
-Este projeto foi desenvolvido como requisito da Semana de Imersão do curso *Machine Learning*.  
+Este projeto foi desenvolvido como requisito da Semana de Imersão do curso *Machine Learning* ofertado pelo Hype da USP.  
 O objetivo é aplicar algoritmos de Machine Learning no clássico dataset **Íris**, avaliando diferentes técnicas de classificação multiclasse.
 
 ## 🔍 Etapas do Projeto
